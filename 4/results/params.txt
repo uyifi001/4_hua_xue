@@ -1,0 +1,5 @@
+tbc=on
+T_C=1050
+kp_um2_per_h=0.372713
+D_um2_per_h=6497.61
+steps=2000
